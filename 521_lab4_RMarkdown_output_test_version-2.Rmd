@@ -2,7 +2,7 @@
 title: "R Markdown Output Test"
 author: "Jonah Hamilton"
 date: "2022-09-26"
-output: html_document
+output: github_document
 ---
 
 ### First New Markdown Section

@@ -86,7 +86,7 @@ To render the HTML files we are going to create, the first step is to activate G
 
 ```
 
-YOUR ANSWER GOES HERE
+link to site: <https://joham63.github.io/523_lab_4_pages/>
 
 ```{block, type="alert alert-info"}
 #### Question 2
@@ -165,7 +165,7 @@ At least one must be different to the ones mentioned above.
 Write in your own words what each code chunk option is doing.
 ```
 
-### Question 3 multiple code chunk options 
+### Question 3 multiple code chunk options
 
 ```{r multiple code option test, message=FALSE, prompt=TRUE, highlight=TRUE}
 
@@ -298,7 +298,11 @@ rubric={mechanics:6}
    Paste a link to these files as your answer below.
 ```
 
-YOUR ANSWER GOES HERE
+Rmd doc:
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_joham/blob/master/521_lab4_RMarkdown_output_test_version-2.Rmd>
+
+html:
+<https://github.ubc.ca/MDS-2022-23/DSCI_521_lab4_joham/blob/master/521_lab4_RMarkdown_output_test_version-2.html>
 
 ```{block, type="alert alert-info"}
 #### Question 9 (Optional)
@@ -312,7 +316,9 @@ rubric={mechanics:1,reasoning:1}
    What do you see? How is it rendered?
 ```
 
-YOUR ANSWER GOES HERE
+The .md file was rendered in the same style as github documents, the
+same content is included compared to the pdf/html files but the style
+and way it is presented is different,
 
 ```{block, type="alert alert-info"}
 #### Question 10
